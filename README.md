@@ -1,2 +1,3 @@
 # hello-world
-Obligatory first project. Let's do this GitHub!
+Hello World!
+Time for science, but first COFFEE!
